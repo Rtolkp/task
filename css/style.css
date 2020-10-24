@@ -1,0 +1,19 @@
+body{
+	background: #ccccff;;
+}
+label{
+	width: 450px;
+	display: block;
+}
+h1{
+	text-align: center;
+}
+
+.login{
+  width: 50%;
+  float:left;
+  
+  
+
+  
+}
